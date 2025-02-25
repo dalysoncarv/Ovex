@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oferecemos soluções completas, desde o design<br> até a hospedagem, garantindo velocidade,<br>segurança e uma experiência impecável.<br> Com um atendimento personalizado e suporte ágil, <br>a Ovex transforma ideias em projetos digitais de sucesso</p>
+<h3 align="left">Oferecemos soluções completas, desde o design até a hospedagem, garantindo velocidade, segurança e uma experiência impecável. Com um atendimento personalizado e suporte ágil, a Ovex transforma ideias em projetos digitais de sucesso.</h3>
 
 ###
 
