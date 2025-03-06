@@ -6,12 +6,11 @@
 
 ###
 
-<h2 align="left">Ovex</h2>
+
 
 ###
 
 <div align="center">
-  <img height="400" src="https://media.discordapp.net/attachments/1250107509797290081/1343955970203713662/ovex-site.png?ex=67bf2808&is=67bdd688&hm=3f49f7850c810386c3e8bfae0b7fbea6ca18b5d93c59abadc5569083eb9dc12b&=&format=webp&quality=lossless&width=1243&height=676"  />
 </div>
 
 ###
